@@ -1,0 +1,146 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "login": "Alexicon",
+      "password": "admin"
+    },
+    {
+      "id": 2,
+      "login": "Wilson",
+      "password": "fixing"
+    },
+    {
+      "id": 3,
+      "login": "Wolf",
+      "password": "rrrrr"
+    },
+    {
+      "login": "Cat",
+      "password": "meow",
+      "id": 4
+    }
+  ],
+  "predictions": [
+    {
+      "match": "Челси — Бёрнли",
+      "date": "2020-01-11T15:00:00.000Z",
+      "prediction": "Челси: тотал больше 3.5",
+      "bet": 10,
+      "coef": 5.01,
+      "result": "Минус",
+      "showModal": true,
+      "shouldRedirect": false,
+      "login": "Alexicon",
+      "id": 2
+    },
+    {
+      "match": "Сампдория — Брешия",
+      "date": "2020-01-12T14:00:00.000Z",
+      "prediction": "Сампдория: тотал больше 4.5",
+      "bet": 5,
+      "coef": 15.54,
+      "result": "Плюс",
+      "showModal": true,
+      "shouldRedirect": false,
+      "login": "Wilson",
+      "id": 3
+    },
+    {
+      "match": "Манчестер Юнайтед — Норвич",
+      "date": "2020-01-11T15:00:00.000Z",
+      "prediction": "Победа Манчестер Юнайтед",
+      "bet": 10,
+      "coef": 2.12,
+      "result": "Плюс",
+      "showModal": true,
+      "shouldRedirect": false,
+      "login": "Alexicon",
+      "id": 4
+    },
+    {
+      "match": "Тоттенхэм — Ливерпуль",
+      "date": "2020-01-11T17:30:00.000Z",
+      "prediction": "Тотал меньше 2",
+      "bet": 10,
+      "coef": 3.14,
+      "result": "Плюс",
+      "showModal": true,
+      "shouldRedirect": false,
+      "login": "Alexicon",
+      "id": 5
+    },
+    {
+      "match": "Астон Вилла — Манчестер Сити",
+      "date": "2020-01-12T16:30:00.000Z",
+      "prediction": "Фора Астон Вилла: +3",
+      "bet": 10,
+      "coef": 1.82,
+      "result": "Минус",
+      "showModal": true,
+      "shouldRedirect": false,
+      "login": "Alexicon",
+      "id": 6
+    },
+    {
+      "match": "Тулуза — Брест",
+      "date": "2020-01-11T19:00:00.000Z",
+      "prediction": "Тотал меньше 3.5",
+      "bet": 5,
+      "coef": 1.42,
+      "result": "Минус",
+      "showModal": true,
+      "shouldRedirect": false,
+      "login": "Wolf",
+      "id": 7
+    },
+    {
+      "match": "Бордо — Лион",
+      "date": "2020-01-11T16:30:00.000Z",
+      "prediction": "Победа Бордо",
+      "bet": 5,
+      "coef": 3.75,
+      "result": "Минус",
+      "showModal": true,
+      "shouldRedirect": false,
+      "login": "Wolf",
+      "id": 8
+    },
+    {
+      "match": "ПСЖ — Монако",
+      "date": "2020-01-12T20:00:00.000Z",
+      "prediction": "Фора Монако: 0",
+      "bet": 5,
+      "coef": 12.7,
+      "result": "Возврат",
+      "showModal": true,
+      "shouldRedirect": false,
+      "login": "Wolf",
+      "id": 9
+    },
+    {
+      "match": "Верона — Дженоа",
+      "date": "2020-01-12T17:15:00.000Z",
+      "prediction": "Тайм/матч: П2П1",
+      "bet": 5,
+      "coef": 25,
+      "result": "Плюс",
+      "showModal": true,
+      "shouldRedirect": false,
+      "login": "Wilson",
+      "id": 10
+    },
+    {
+      "match": "Рома — Ювентус",
+      "date": "2020-01-12T19:45:00.000Z",
+      "prediction": "Рома: удаление будет",
+      "bet": 45,
+      "coef": 6.4,
+      "result": "Минус",
+      "showModal": true,
+      "shouldRedirect": false,
+      "login": "Wilson",
+      "id": 11
+    }
+  ]
+}
